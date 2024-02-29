@@ -10,7 +10,7 @@ Created a random passwrod generator within python environment using guided mater
 - <b> <a href="https://pythongeeks.org/python-password-generator/">Guided Material
 
 <h4>Walkthrough</h4>
-<b>Using guide material, we created a program for generating a random passwrod generator using disired number of characters with the option for repeated and characters.</b>
+<b>Using guide material, we created a program for generating a random passwrod generator using desired number of characters with the option for repeated characters.</b>
 <img src="https://imgur.com/pxnu6ZX.png">
 
 <b> Code <b>
